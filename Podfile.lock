@@ -1,0 +1,108 @@
+PODS:
+  - AFNetworking (2.3.1):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+    - AFNetworking/UIKit
+  - AFNetworking/NSURLConnection (2.3.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.3.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.3.1)
+  - AFNetworking/Security (2.3.1)
+  - AFNetworking/Serialization (2.3.1)
+  - AFNetworking/UIKit (2.3.1):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - CocoaLumberjack (1.9.1):
+    - CocoaLumberjack/Extensions
+  - CocoaLumberjack/Core (1.9.1)
+  - CocoaLumberjack/Extensions (1.9.1):
+    - CocoaLumberjack/Core
+  - RZUtils (2.0.1):
+    - RZUtils/All
+  - RZUtils/All (2.0.1):
+    - RZUtils/Categories
+    - RZUtils/Components
+    - RZUtils/Utilities
+  - RZUtils/Categories (2.0.1):
+    - RZUtils/Categories/CoreAnimation
+    - RZUtils/Categories/KVO
+    - RZUtils/Categories/NSDate
+    - RZUtils/Categories/NSDictionary
+    - RZUtils/Categories/NSString
+    - RZUtils/Categories/NSUndoManager
+    - RZUtils/Categories/UIAlertView
+    - RZUtils/Categories/UIColor
+    - RZUtils/Categories/UIFont
+    - RZUtils/Categories/UIImage
+    - RZUtils/Categories/UIImageView
+    - RZUtils/Categories/UIView
+    - RZUtils/Categories/UIViewController
+  - RZUtils/Categories/CoreAnimation (2.0.1)
+  - RZUtils/Categories/KVO (2.0.1)
+  - RZUtils/Categories/NSDate (2.0.1)
+  - RZUtils/Categories/NSDictionary (2.0.1)
+  - RZUtils/Categories/NSString (2.0.1)
+  - RZUtils/Categories/NSUndoManager (2.0.1)
+  - RZUtils/Categories/UIAlertView (2.0.1)
+  - RZUtils/Categories/UIColor (2.0.1)
+  - RZUtils/Categories/UIFont (2.0.1)
+  - RZUtils/Categories/UIImage (2.0.1)
+  - RZUtils/Categories/UIImageView (2.0.1)
+  - RZUtils/Categories/UIView (2.0.1)
+  - RZUtils/Categories/UIViewController (2.0.1)
+  - RZUtils/Components (2.0.1):
+    - RZUtils/Components/RZAnimatedCountingLabel
+    - RZUtils/Components/RZAnimatedImageView
+    - RZUtils/Components/RZButtonView
+    - RZUtils/Components/RZCollectionTableView
+    - RZUtils/Components/RZCollectionViewAnimationAssistant
+    - RZUtils/Components/RZDelayedOperation
+    - RZUtils/Components/RZLocationService
+    - RZUtils/Components/RZProgressView
+    - RZUtils/Components/RZRevealViewController
+    - RZUtils/Components/RZSegmentedViewController
+    - RZUtils/Components/RZSingleChildContainerViewController
+    - RZUtils/Components/RZSplitViewController
+    - RZUtils/Components/RZTelprompt
+    - RZUtils/Components/RZViewFactory
+    - RZUtils/Components/RZWebViewController
+  - RZUtils/Components/RZAnimatedCountingLabel (2.0.1)
+  - RZUtils/Components/RZAnimatedImageView (2.0.1)
+  - RZUtils/Components/RZButtonView (2.0.1)
+  - RZUtils/Components/RZCollectionTableView (2.0.1)
+  - RZUtils/Components/RZCollectionViewAnimationAssistant (2.0.1)
+  - RZUtils/Components/RZDelayedOperation (2.0.1)
+  - RZUtils/Components/RZLocationService (2.0.1)
+  - RZUtils/Components/RZProgressView (2.0.1)
+  - RZUtils/Components/RZRevealViewController (2.0.1)
+  - RZUtils/Components/RZSegmentedViewController (2.0.1)
+  - RZUtils/Components/RZSingleChildContainerViewController (2.0.1)
+  - RZUtils/Components/RZSplitViewController (2.0.1)
+  - RZUtils/Components/RZTelprompt (2.0.1)
+  - RZUtils/Components/RZViewFactory (2.0.1)
+  - RZUtils/Components/RZWebViewController (2.0.1)
+  - RZUtils/Utilities (2.0.1):
+    - RZUtils/Utilities/RZCommonUtils
+    - RZUtils/Utilities/RZDispatch
+  - RZUtils/Utilities/RZCommonUtils (2.0.1)
+  - RZUtils/Utilities/RZDispatch (2.0.1)
+
+DEPENDENCIES:
+  - AFNetworking
+  - CocoaLumberjack
+  - RZUtils
+
+SPEC CHECKSUMS:
+  AFNetworking: 6d7b76aa5d04c8c37daad3eef4b7e3f2a7620da3
+  CocoaLumberjack: 94accd5749f5c5d15134c8d50f34a973aed8ef69
+  RZUtils: aa116c6d074bbe247fc0d229662a77843d2bcc07
+
+COCOAPODS: 0.33.1
